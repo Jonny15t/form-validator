@@ -1,0 +1,19 @@
+{
+  "name": "@jonny15t/form-validator",
+  "version": "0.0.0a",
+  "description": "Validates React form state and returns \"isValid\" boolean along with custom error messages for each invalid input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonny15t/form-validator.git"
+  },
+  "author": "Jonathan Small",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonny15t/form-validator/issues"
+  },
+  "homepage": "https://github.com/jonny15t/form-validator#readme"
+}
